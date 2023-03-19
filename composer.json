@@ -1,0 +1,26 @@
+{
+    "name": "mrmarchone/kayan",
+    "description": "a cms package for helping non-developers to create websites",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Mrmarchone\\Kayan\\": "src/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Mrmarchone\\Kayan\\Tests\\": "tests/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Abdelrahman Muhammed",
+            "email": "mrmarchone@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require-dev": {
+        "orchestra/testbench": "^6.0"
+    }
+}
