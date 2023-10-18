@@ -14,5 +14,17 @@
             "email": "mrmarchone@gmail.com"
         }
     ],
-    "require": {}
+    "require": {
+        "php": ">=5.6.4",
+        "laravel/framework": "^5.0|^6.0|^7.0|^8.0|^9.0|^10.0"
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Mrmarchone\\Kayan\\RepositoriesServiceProvider"
+            ]
+        }
+    },
+    "minimum-stability": "stable",
+    "prefer-stable": true
 }
