@@ -6,4 +6,3 @@ return [
         'prefix' => 'kayan1'
     ]
 ];
-tag
