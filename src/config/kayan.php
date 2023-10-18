@@ -3,6 +3,6 @@ return [
     'database_prefix' => 'kayan',
     'dashboard_title' => 'Kayan',
     'routes' => [
-        'prefix' => 'kayan'
+        'prefix' => 'kayan1'
     ]
 ];
