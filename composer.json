@@ -1,0 +1,18 @@
+{
+    "name": "mrmarchone/kayan",
+    "description": "This package helps developers to make a CMS using laravel.",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Mrmarchone\\Kayan\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Abdelrahman Muhammed",
+            "email": "mrmarchone@gmail.com"
+        }
+    ],
+    "require": {}
+}
